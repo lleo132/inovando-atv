@@ -4,7 +4,7 @@ Estou utilizando este repositorio para tornar atividades simples e de iniciantes
 
 ## Estrutura das pastas
 
-A area de trabalho possui duas pastas pradão, são:
+A area de trabalho possui duas pastas padrão, são:
 
 - `src`: the folder to maintain sources
 - `lib`: the folder to maintain dependencies
