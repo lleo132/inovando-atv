@@ -1,10 +1,10 @@
-## Getting Started
+## Seja bem vindo ao meu repositorio 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Estou utilizando este repositorio para tornar atividades simples e de iniciantes em arranjos mais robustos!
 
-## Folder Structure
+## Estrutura das pastas
 
-The workspace contains two folders by default, where:
+A area de trabalho possui duas pastas pradão, são:
 
 - `src`: the folder to maintain sources
 - `lib`: the folder to maintain dependencies
